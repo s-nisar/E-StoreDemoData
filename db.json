@@ -1,5 +1,5 @@
 {
-  "products":[
+  "products": [
     {
       "id": 1,
       "category": "Protein Crystallization",
@@ -50,4 +50,3 @@
     }
   ]
 }
-
