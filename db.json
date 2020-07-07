@@ -1,11 +1,53 @@
 {
-  "posts": [
+  "products":[
     {
       "id": 1,
-      "title": "hello"
+      "category": "Protein Crystallization",
+      "name": "ROCK MAKER - Crystallization Software",
+      "price": "$1000"
+    },
+    {
+      "id": 2,
+      "category": "Protein Crystallization",
+      "name": "NT8 - Drop Setter",
+      "price": "$1000"
+    },
+    {
+      "id": 3,
+      "category": "Protein Crystallization",
+      "name": "FORMULATOR - Screen Builder",
+      "price": "$1000"
+    },
+    {
+      "id": 4,
+      "category": "Protein Crystallization",
+      "name": "ROCK IMAGER - Crystallization Imager",
+      "price": "$1000"
+    },
+    {
+      "id": 5,
+      "category": "Protein Crystallization",
+      "name": "SONICC - Crystal Detector",
+      "price": "$1000"
+    },
+    {
+      "id": 6,
+      "category": "Liquid Handling",
+      "name": "MANTIS - Liquid Handler",
+      "price": "$1000"
+    },
+    {
+      "id": 7,
+      "category": "Liquid Handling",
+      "name": "TEMPEST - Liquid Handler",
+      "price": "$1000"
+    },
+    {
+      "id": 8,
+      "category": "Sample Purification",
+      "name": "PULSE - TFF System",
+      "price": "$1000"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
+
