@@ -13,36 +13,18 @@
   },
   {
     "id": 3,
-    "category": "Protein Crystallization",
-    "name": "FORMULATOR - Screen Builder",
-    "price": "$1000"
-  },
-  {
-    "id": 4,
-    "category": "Protein Crystallization",
-    "name": "ROCK IMAGER - Crystallization Imager",
-    "price": "$1000"
-  },
-  {
-    "id": 5,
-    "category": "Protein Crystallization",
-    "name": "SONICC - Crystal Detector",
-    "price": "$1000"
-  },
-  {
-    "id": 6,
     "category": "Liquid Handling",
     "name": "MANTIS - Liquid Handler",
     "price": "$1000"
   },
   {
-    "id": 7,
+    "id": 4,
     "category": "Liquid Handling",
     "name": "TEMPEST - Liquid Handler",
     "price": "$1000"
   },
   {
-    "id": 8,
+    "id": 5,
     "category": "Sample Purification",
     "name": "PULSE - TFF System",
     "price": "$1000"
