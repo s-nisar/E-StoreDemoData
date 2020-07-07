@@ -1,32 +1,11 @@
-[
-  {
-    "id": 1,
-    "category": "Protein Crystallization",
-    "name": "ROCK MAKER - Crystallization Software",
-    "price": "$1000"
-  },
-  {
-    "id": 2,
-    "category": "Protein Crystallization",
-    "name": "NT8 - Drop Setter",
-    "price": "$1000"
-  },
-  {
-    "id": 3,
-    "category": "Liquid Handling",
-    "name": "MANTIS - Liquid Handler",
-    "price": "$1000"
-  },
-  {
-    "id": 4,
-    "category": "Liquid Handling",
-    "name": "TEMPEST - Liquid Handler",
-    "price": "$1000"
-  },
-  {
-    "id": 5,
-    "category": "Sample Purification",
-    "name": "PULSE - TFF System",
-    "price": "$1000"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
